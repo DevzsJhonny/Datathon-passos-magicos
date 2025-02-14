@@ -11,3 +11,9 @@
 
 <h2>Proposta Preditiva</h2>
 <p>Ademais, é de responsabilidade de nossa equipe de dados, criar um modelo preditivo para prever o comportamento do estudante com base em algumas variáveis que podem ser cruciais para a identificação do desenvolvimento do estudante. Para essa proposta preditiva, utilizamos o modelo de algoritmo XGBoost, que é composto por árvore de decisões, que vai nos ajudar a prever o resultado por pedra para um aluno em específico.</p>
+
+<p>Links Importantes:</p>
+<ul>
+  <li><a href="https://fase5fiapgrupo44.streamlit.app/">Modelo Preditivo no Streamlit</a></li>
+  <li><a href="https://drive.google.com/file/d/1io7twhaAET_idhoyREhyaOCuU3gGAgIa/view?usp=drive_link">Base de Dados</a></li>
+</ul>
